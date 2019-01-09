@@ -5,10 +5,8 @@ This isn't the best esoteric programming language ever, but you can draw on the 
 
 You can switch between stacks.
 
-Stack #1 is mainly used for arguments of functions
-
+Stack #1 is mainly used for arguments of functions.
 Stack #2 is for anything you need it.
-
 You can push/pop from both stacks.
 
 If you want to read more please open the Documentation.txt file.
