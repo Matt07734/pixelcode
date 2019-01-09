@@ -3,6 +3,18 @@ A esoteric programming language that was heavily inspired by Brainfuck.
 
 This isn't the best esoteric programming language ever, but you can draw on the screen, use the number array like on Brainfuck, and it has two stacks.
 
+
+The interpreter isn't that fast.
+So don't spam the Start Code key please.
+
+
+CONTROLS:
+Numpad 1: Load Code
+Numpad 2: Start Code
+Numpad 4: Debug (Shows Num Array, Two Stacks)
+
+
+
 You can switch between stacks.
 
 Stack #1 is mainly used for arguments of functions.
