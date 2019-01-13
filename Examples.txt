@@ -31,13 +31,25 @@ The first input is what you want to do.
 
 The other two inputs are any numbers you want to put in.
 ------------------------------------------------------------------------------------------
-!.!{$-.%~}
+!.!{$.~}
 
 A very simple "drawing" program.
 You click on the screen and it places a dot.
+------------------------------------------------------------------------------------------
+!.!{$.!>!S[!>.-~,<!]!<!~}
+
+This is the same program as above but when you click the "S" button it clears the screen.
 ------------------------------------------------------------------------------------------
 !.!.{!>!$-.%!-;>-;>.:,<<:>>:#[~:<:>,:#[~!-#-~-.%!]]~<<<!}
 
 An another "drawing" program, but this one has a dot in the upper left corner which
 clears the screen when you click on it.
+------------------------------------------------------------------------------------------
+!.{~>>|<\>|<-;>.::,<:>>#[>~-$:-$:!@!~_<]~<.:.:,,<:>>#[~!.%!~]~<.:..:,,,<:>>#[~!-~-#!~]~<.:...:,,,,<:>>#[~*~]<<<}
+
+A program that uses the inputs and the indicators to draw on the screen!
+Input #1: Move Pointer to X, Y (It asks you for two numbers)
+Input #2: Place Pixel
+Input #3: Clear Screen
+Input #4: End
 ------------------------------------------------------------------------------------------
