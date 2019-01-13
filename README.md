@@ -18,8 +18,27 @@ Numpad 4: Debug (Shows Num Array, Two Stacks)
 You can switch between stacks.
 
 Stack #1 is mainly used for arguments of functions.
+
 Stack #2 is for anything you need it.
+
 You can push/pop from both stacks.
+
+
+There's an indicator in the bottom right corner which will tell you if the code is running or not.
+
+
+Green - Running Code
+
+
+Red - Not running any code
+
+
+Blue - Waiting for the user to click on the screen
+
+
+Dark Orange - Waiting for the user to click an input on the Input Panel
+
+
 
 If you want to read more please open the Documentation.txt file.
 
