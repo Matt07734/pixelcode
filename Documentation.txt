@@ -33,7 +33,7 @@ ALU Functions:
 4 - Devide
 5 - RNG (Random Number Generator)
 
-- (Dash is used to call a special function of a letter, supported letters:  ; POP FROM TOP | ~ CLEAR DRAWING SCREEN | $ INPUT NUMBER TO CURRENT MEMORY CELL | . DRAW TO BUFFER | , PRINT ASCII | # CLEAR BUFFER | -: TOGGLE BETWEEN STACK #1 AND #2)
+- (Dash is used to call a special function of a letter, supported letters:  ; POP FROM BOTTOM OF STACK | ~ CLEAR DRAWING SCREEN | $ INPUT NUMBER TO CURRENT MEMORY CELL | . DRAW TO BUFFER | , PRINT ASCII | # CLEAR BUFFER | -: TOGGLE BETWEEN STACK #1 AND #2)
 
 $ - Waits for the user to click on the screen. (Pushes the X, Y coordinates onto the stack for use and moves the pointer to the location you clicked.)
 
